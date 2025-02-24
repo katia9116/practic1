@@ -1,5 +1,6 @@
 <html>
   <head>
+git restore hello.html
   </head>
   <body>
     <h1>Hello, World!</h1>
